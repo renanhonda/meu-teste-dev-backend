@@ -1,0 +1,21 @@
+Largada    Codigo   Piloto                 Equipe
+1	       33	    Max Verstappen	       Red Bull
+2	       77	    Valtteri Bottas	       Mercedes
+3	       44	    Lewis Hamilton	       Mercedes
+4	       16	    Charles Leclerc	       Ferrari
+5	       5	    Sebastian Vettel       Ferrari
+6	       10	    Pierre Gasly	       Red Bull
+7	       4	    Lando Norris	       McLaren
+8	       55	    Carlos Sainz Jr.       McLaren
+9	       8	    Romain Grosjean	       Haas
+10	       7	    Kimi Raikkonen	       Alfa Romeo
+11	       27	    Nico Hulkenberg	       Renault
+12	       23	    Alexander Albon	       Toro Rosso
+13	       26	    Daniil Kvyat	       Toro Rosso
+14	       20	    Kevin Magnussen        Haas
+15	       63	    George Russell         Williams
+16	       11	    Sergio Perez           Racing Point	
+17	       99	    Antonio Giovinazzi	   Alfa Romeo
+18	       18	    Lance Stroll	       Racing Point	
+19	       88	    Robert Kubica	       Williams
+20	       3	    Daniel Ricciardo	   Renault
